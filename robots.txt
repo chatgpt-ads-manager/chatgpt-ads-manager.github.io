@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatgpt-ads-manager.github.io/sitemap.xml
