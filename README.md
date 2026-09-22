@@ -19,3 +19,5 @@ This is a real console, not a rumour: sign up at the advertising site and you la
 ---
 
 *This is an independent review page with no affiliation to OpenAI; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
